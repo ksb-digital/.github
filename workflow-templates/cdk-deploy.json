@@ -1,8 +1,0 @@
-{
-    "name": "CDK Deploy Workflow",
-    "description": "CDK Deploy Workflow template.",
-    "iconName": "rocket",
-    "categories": [
-        "deployment"
-    ],
-}
