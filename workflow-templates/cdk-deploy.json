@@ -5,7 +5,4 @@
     "categories": [
         "deployment"
     ],
-    "filePatterns": [
-        "**/package.json$",
-    ]
 }
